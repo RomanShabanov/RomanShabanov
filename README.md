@@ -2,6 +2,9 @@
 
 I create products and companies. If you are a business seeking a web presence - I am here for you.
 
+![image](https://user-images.githubusercontent.com/9246211/127480191-62ba581f-5d82-4fb5-b80d-ef5e21f3ac59.png)
+
+
 <!--
 **RomanShabanov/RomanShabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
