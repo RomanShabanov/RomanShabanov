@@ -2,10 +2,6 @@
 
 I create products and companies. If you are a business seeking a web presence - I am here for you.
 
-Take me to [pookie](#проверяем-ссылку)
-
-## Проверяем ссылку
-
 ```js
 const express = require('express');
 ```
